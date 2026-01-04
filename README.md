@@ -19,7 +19,6 @@ This project demonstrates **user authentication and authorization** using **JSON
 
 ## Technologies
 
-- Kotlin  
 - Spring Boot  
 - Spring Security  
 - JWT (io.jsonwebtoken)  
